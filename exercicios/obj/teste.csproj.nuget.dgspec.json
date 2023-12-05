@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cauan/Documentos/GitHub/Back-End/exercicios/teste.csproj": {}
+    "/home/cauan/Documentos/Github/Back-End/exercicios/teste.csproj": {}
   },
   "projects": {
-    "/home/cauan/Documentos/GitHub/Back-End/exercicios/teste.csproj": {
+    "/home/cauan/Documentos/Github/Back-End/exercicios/teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cauan/Documentos/GitHub/Back-End/exercicios/teste.csproj",
+        "projectUniqueName": "/home/cauan/Documentos/Github/Back-End/exercicios/teste.csproj",
         "projectName": "teste",
-        "projectPath": "/home/cauan/Documentos/GitHub/Back-End/exercicios/teste.csproj",
+        "projectPath": "/home/cauan/Documentos/Github/Back-End/exercicios/teste.csproj",
         "packagesPath": "/home/cauan/.nuget/packages/",
-        "outputPath": "/home/cauan/Documentos/GitHub/Back-End/exercicios/obj/",
+        "outputPath": "/home/cauan/Documentos/Github/Back-End/exercicios/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cauan/.nuget/NuGet/NuGet.Config"

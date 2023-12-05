@@ -1,9 +1,9 @@
 using System;
 namespace MeuApp
 {
-    class Program
+    public class Variaveis
     {
-        static void Main(string[] args)
+        public static void MainVariaveis(string[] args)
         {
             var texto = "Testando";
             Console.WriteLine(texto);

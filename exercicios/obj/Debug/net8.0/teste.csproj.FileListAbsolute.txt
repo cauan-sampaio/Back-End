@@ -26,3 +26,4 @@
 /home/cauan/Documentos/GitHub/Back-End/exercicios/obj/Debug/net8.0/teste.pdb
 /home/cauan/Documentos/GitHub/Back-End/exercicios/obj/Debug/net8.0/teste.genruntimeconfig.cache
 /home/cauan/Documentos/GitHub/Back-End/exercicios/obj/Debug/net8.0/ref/teste.dll
+/home/cauan/Documentos/Github/Back-End/exercicios/obj/Debug/net8.0/teste.sourcelink.json
