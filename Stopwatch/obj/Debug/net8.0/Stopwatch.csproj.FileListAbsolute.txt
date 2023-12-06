@@ -1,0 +1,15 @@
+/home/cauan/Documentos/Github/Back-End/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/cauan/Documentos/Github/Back-End/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/cauan/Documentos/Github/Back-End/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/cauan/Documentos/Github/Back-End/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/cauan/Documentos/Github/Back-End/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/Stopwatch.sourcelink.json
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll

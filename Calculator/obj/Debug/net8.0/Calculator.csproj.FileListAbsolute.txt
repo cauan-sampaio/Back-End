@@ -1,0 +1,15 @@
+/home/cauan/Documentos/Github/Back-End/Calculator/bin/Debug/net8.0/Calculator
+/home/cauan/Documentos/Github/Back-End/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/cauan/Documentos/Github/Back-End/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/cauan/Documentos/Github/Back-End/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/cauan/Documentos/Github/Back-End/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/cauan/Documentos/Github/Back-End/Calculator/obj/Debug/net8.0/ref/Calculator.dll
