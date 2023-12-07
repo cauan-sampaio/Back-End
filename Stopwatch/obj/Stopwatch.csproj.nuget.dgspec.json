@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cauan/Documentos/Github/Back-End/Stopwatch/Stopwatch.csproj": {}
+    "/home/cauan/Documentos/GitHub/Back-End/Stopwatch/Stopwatch.csproj": {}
   },
   "projects": {
-    "/home/cauan/Documentos/Github/Back-End/Stopwatch/Stopwatch.csproj": {
+    "/home/cauan/Documentos/GitHub/Back-End/Stopwatch/Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cauan/Documentos/Github/Back-End/Stopwatch/Stopwatch.csproj",
+        "projectUniqueName": "/home/cauan/Documentos/GitHub/Back-End/Stopwatch/Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "/home/cauan/Documentos/Github/Back-End/Stopwatch/Stopwatch.csproj",
+        "projectPath": "/home/cauan/Documentos/GitHub/Back-End/Stopwatch/Stopwatch.csproj",
         "packagesPath": "/home/cauan/.nuget/packages/",
-        "outputPath": "/home/cauan/Documentos/Github/Back-End/Stopwatch/obj/",
+        "outputPath": "/home/cauan/Documentos/GitHub/Back-End/Stopwatch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cauan/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/cauan/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
