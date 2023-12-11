@@ -1,0 +1,15 @@
+/home/cauan/Documentos/Github/Back-End/TextEditor/bin/Debug/net8.0/TextEditor
+/home/cauan/Documentos/Github/Back-End/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/cauan/Documentos/Github/Back-End/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/cauan/Documentos/Github/Back-End/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/cauan/Documentos/Github/Back-End/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/TextEditor.sourcelink.json
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/cauan/Documentos/Github/Back-End/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll

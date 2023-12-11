@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cauan/Documentos/GitHub/Back-End/TextEditor/TextEditor.csproj": {}
+    "/home/cauan/Documentos/Github/Back-End/TextEditor/TextEditor.csproj": {}
   },
   "projects": {
-    "/home/cauan/Documentos/GitHub/Back-End/TextEditor/TextEditor.csproj": {
+    "/home/cauan/Documentos/Github/Back-End/TextEditor/TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cauan/Documentos/GitHub/Back-End/TextEditor/TextEditor.csproj",
+        "projectUniqueName": "/home/cauan/Documentos/Github/Back-End/TextEditor/TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "/home/cauan/Documentos/GitHub/Back-End/TextEditor/TextEditor.csproj",
+        "projectPath": "/home/cauan/Documentos/Github/Back-End/TextEditor/TextEditor.csproj",
         "packagesPath": "/home/cauan/.nuget/packages/",
-        "outputPath": "/home/cauan/Documentos/GitHub/Back-End/TextEditor/obj/",
+        "outputPath": "/home/cauan/Documentos/Github/Back-End/TextEditor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cauan/.nuget/NuGet/NuGet.Config"
