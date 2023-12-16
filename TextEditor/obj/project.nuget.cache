@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "rh1nGor1niqE+BeK4ZZv56D9r9Eo9A7/uhFYs5BByKrLCI+1qWbc/D0D/38+5SYmACXEJfV64eQn1K56NPMY7A==",
+=======
+  "dgSpecHash": "nr1G+P2hXkD+Ryz15+HBh3t/y+/wO/W9O88jLKVhEDGvBe0R+TRzXUHM5LLgDa9k44jEl6305e50TBqv6ZIr5g==",
+>>>>>>> 48234d576f19aea5b738547fea32ce428bd66891
   "success": true,
-  "projectFilePath": "/home/cauan/Documentos/GitHub/Back-End/TextEditor/TextEditor.csproj",
+  "projectFilePath": "/home/cauan/Documentos/Github/Back-End/TextEditor/TextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
